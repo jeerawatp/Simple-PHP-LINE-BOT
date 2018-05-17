@@ -2,11 +2,12 @@
 
 class Setting {
 	public function getChannelAccessToken(){
-		$channelAccessToken = "";
+		$channelAccessToken = "LtQ9cC/RPw+Lju3CjezNCqQscG10Ykl2zMLqmHVNIeYciYmjulShzIolUFtnQeYyxW0NmtpGH2xP/UMkx4JNUkdzDhcQaOqHapy8yfAqCEncQoxKuSCZ2TcDM9oBjxNQsdrzjVKpdY/txklE9mdLiwdB04t89/1O/w1cDnyilFU=
+";
 		return $channelAccessToken;
 	}
 	public function getChannelSecret(){
-		$channelSecret = "";
+		$channelSecret = "022a4f3b857ac6a2daa6cd26ec614bdd";
 		return $channelSecret;
 	}
 	public function getApiReply(){
